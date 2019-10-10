@@ -110,7 +110,7 @@ header {
 .banner {
 	max-width: 100%;
 	min-height: 100vh;
-	background: url(../img/bg-one.png) no-repeat center top;
+	background: url(../img/bg-one) no-repeat center top;
 	background-size: cover;
 	padding-top: 230px;
 }
