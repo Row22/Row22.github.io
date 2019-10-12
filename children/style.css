@@ -262,7 +262,7 @@ header {
 .properties {
 	width: 100%;
 	height: 915px;
-	background: url(../img/bg-3.png) no-repeat center top;
+	background: url(img/bg-3.png) no-repeat center top;
 	background-size: cover;
 	margin-top: 50px;
 
