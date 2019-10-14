@@ -3,13 +3,15 @@ body {
 	font-family: "Lobster" "Roboto" sans-serif;
 	font-size: 12px;
 	padding-right: 0px;
+	
 
 }
 
 .wrapper {
-	max-width: 1100px;
-	margin: 0 auto; (webkit) 
-	
+	max-width: 1175px;
+	margin: 0 auto;
+	-o-max-width: 900px;
+	margin: 0 auto;-o-
 }
 
 header {
@@ -25,7 +27,7 @@ header {
 	vertical-align: middle;
 	background-color: #a98e88;
 	font-family: "Roboto" sans-serif;
-	font-size: 12px;
+	font-size: 15px;
 	border-radius: 15px;
 	text-decoration: none;
 	text-transform: uppercase;
@@ -110,7 +112,7 @@ header {
 .banner {
 	max-width: 100%;
 	min-height: 100vh;
-	background: url(../img/bg-one.png) no-repeat center top;
+	background: url(../img/bg-one1.png) no-repeat center top;
 	background-size: cover;
 	padding-top: 230px;
 }
@@ -797,17 +799,34 @@ textarea.form-control {
 
 
 @media (max-width: 1280px) and (max-height: 1024px) {
-	.banner-text h1 {
-	font-size: 90px;
-	line-height: 85px;
+
+.banner-text h1 {
+	font-size: 100px; 
+	line-height: 110px;
 	padding-bottom: 50px;
 }
 
 .banner-text p {
-	font-size: 25px;
+	font-size: 35px;
 	font-weight: 400;
 	text-transform: uppercase;
 	font-family: "Roboto" sans-serif;
+}
+
+.properties-list-img img {
+	width: 600px;
+	margin-top: 7px;
+	margin-left: -170px;
+}
+
+.security-list-img img {
+	width: 570px;
+	margin-top: -18px;
+	margin-left: 100px;
+}
+
+.about-text p {
+	font-size: 20px; 
 }
 
 
