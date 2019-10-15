@@ -112,7 +112,14 @@ header {
 .banner {
 	max-width: 100%;
 	min-height: 100vh;
+<<<<<<< HEAD:childrensite/style.css
 	background: url(../img/bg-one1.png) no-repeat center top;
+=======
+<<<<<<< HEAD
+	background: url(img/bg-one1.png) no-repeat center top;
+=======
+>>>>>>> 41f5c1accee4dee2b79ffe996f1ff3dd02ae32dc
+>>>>>>> 9f5509c7fd8776460631e9b5cfb6666b3fcc83b2:childrentest/style.css
 	background-size: cover;
 	padding-top: 230px;
 }
@@ -232,27 +239,6 @@ header {
 	transform: rotate(-50deg);
 }
 
-/*
-.nav-tab-list {
-	display: flex;
-	list-style: none;
-	text-align: justify;
-	
-}
-
-.nav_tab-link {
-	margin-left: 15px;
-}
-
-.nav_tab-link i{
-	color: #02a4de;
-	font-size: 35px;
-}
-
-.nav_tab-link-list {
-	font-size: 18px;
-
-}
 
 
 /*properties=======================================================*/
