@@ -622,7 +622,7 @@ margin: 0 auto;
 
 .banner-about {
 	background-size: cover;
-	background:  url(../img/bg-1.png) no-repeat center top;
+	background:  url(img/bg-1.png) no-repeat center top;
 	background-size: 100%;
 	max-width: 100%;
 }
@@ -654,7 +654,7 @@ margin: 0 auto;
 }
 
 .banner-contact {
-	background:  url(../img/bg-1.png) no-repeat center top;
+	background:  url(img/bg-1.png) no-repeat center top;
 	background-size: 100%;
 	min-height: 915px;
 	max-width: 100%;
@@ -802,7 +802,7 @@ margin: 0 auto;
 }
 
 .banner-contact {
-	background:  url(../img/bg-2.png) no-repeat center top;
+	background:  url(img/bg-2.png) no-repeat center top;
 	background-size: 100%;
 	min-height: 915px;
 	max-width: 100%;
