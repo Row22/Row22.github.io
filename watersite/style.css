@@ -571,6 +571,7 @@ margin: 0 auto;
 .menu {
 	margin-top: 15px;
 	min-height: 550px;
+	min-width: 1100px;
 }
 
 .menu_item {
