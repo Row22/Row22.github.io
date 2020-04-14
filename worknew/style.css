@@ -11,7 +11,7 @@
 
 .hotel {
 	max-width: 100%;
-	background: url(../img/hotel.png) no-repeat center top;
+	background: url(img/hotel.png) no-repeat center top;
 	padding-top: 3800px;
 	max-width: 850px;
 	background-size: cover;
@@ -22,7 +22,7 @@
 .home {
 	max-width: 850px;
 	min-height: 5000px;
-	background: url(../img/home.png) no-repeat center top;
+	background: url(img/home.png) no-repeat center top;
 	background-size: cover;
 	margin-left: 200px;
 /*
