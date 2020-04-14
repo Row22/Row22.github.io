@@ -4,17 +4,27 @@
 
 
 
-.hotel {
-	max-width: 100%;
-	background: url(img/hotel.png) no-repeat center top;
-	padding-top: 3800px;
+.home-list {
+	padding-top: 100px;
+
 }
 
-.home {
+.hotel {
 	max-width: 100%;
-	min-height: 4000px;
-	background: url(img/home.png) no-repeat center top;
+	background: url(../img/hotel.png) no-repeat center top;
+	padding-top: 3800px;
+	max-width: 850px;
+	background-size: cover;
+	margin-left: 200px;
+}
 
+
+.home {
+	max-width: 850px;
+	min-height: 5000px;
+	background: url(../img/home.png) no-repeat center top;
+	background-size: cover;
+	margin-left: 200px;
 /*
 
 @media (max-width: 1200px) and (min-height: 1024px){
